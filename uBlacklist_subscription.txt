@@ -1,4 +1,4 @@
-*://*.005i.com/*
+!://*.005i.com/*
 *://*.01-123.com/*
 *://*.01-800.cn/*
 *://*.021sensor.com/*
@@ -1796,3 +1796,4 @@
 *://support.huaweicloud.com/topic/*
 *://www.cnpython.com/qa/*
 *://www.huaweicloud.com/theme/*
+ 
